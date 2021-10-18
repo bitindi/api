@@ -1,4 +1,4 @@
-# Documentation for the P2pb2b API v2
+# Documentation for the Bitindi API v1
 
 * [api-doc.md](./api-doc.md) - 	Descriptions of REST API Endpoints.
 
